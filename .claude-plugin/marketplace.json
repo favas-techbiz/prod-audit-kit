@@ -1,0 +1,11 @@
+{
+  "name": "prod-audit-tools",
+  "owner": { "name": "FAVAS" },
+  "plugins": [
+    {
+      "name": "prod-audit-kit",
+      "source": "./plugins/prod-audit-kit",
+      "description": "Audit a repo for production-readiness, security, multi-tenant and RBAC issues, then fix selected findings with verification."
+    }
+  ]
+}

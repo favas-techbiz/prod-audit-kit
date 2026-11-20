@@ -1,0 +1,6 @@
+{
+  "name": "prod-audit-kit",
+  "description": "Audit a repo for production-readiness, security, multi-tenant and RBAC issues, then fix selected findings with verification.",
+  "version": "1.0.0",
+  "author": { "name": "FAVAS" }
+}
